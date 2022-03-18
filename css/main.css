@@ -199,6 +199,7 @@ nav{
 }
 .image img{
     display: block;
+object-fit: cover; 
 }
 .title{
     font-size: 1.9rem;
